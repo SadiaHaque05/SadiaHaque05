@@ -70,7 +70,6 @@
 ---
 
 ## 🚀 Featured Projects
-(Replace with your real project links later)
 
 ### 🛒 Simple ArtWebsite 
 - Product listing, user dashboard, filtering system  
